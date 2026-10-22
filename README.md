@@ -1,5 +1,6 @@
 # github-lerning
 My first GitHub repository for learning Git and GitHub.
+
 ## What I learned
 
 - Repository
@@ -7,3 +8,7 @@ My first GitHub repository for learning Git and GitHub.
 - Branch
 - Pull Request
 - Merge
+
+## My note
+
+I created my first GitHub branch!
